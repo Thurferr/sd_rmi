@@ -5,6 +5,7 @@
  * 
  */
 module SD_RMI {
-    exports calculadora;
-    requires java.rmi;
+	exports calculadora;
+
+	requires java.rmi;
 }
